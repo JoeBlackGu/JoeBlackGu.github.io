@@ -6,7 +6,6 @@ crawlertitle: "On deaf ears"
 summary: ""
 date: 2019-06-11
 tags : ['News']
-slug: post-url
 author: "Economist"
 categories: posts
 ---
